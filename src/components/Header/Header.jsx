@@ -15,7 +15,7 @@ const Header = () => {
           <Link to="/reserve">Reserve</Link>
         </span>
         <span>
-          <Link to="/about">About us</Link>
+          <Link to="/menu">Menu</Link>
         </span>
       </div>
        <h1> DeMicaelo's Restaurant</h1>
